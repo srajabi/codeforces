@@ -1,7 +1,5 @@
 C++ and Python Codeforces Templates
 
-# Links
-
 ## Python template:
 * https://codeforces.com/blog/entry/71884
 
